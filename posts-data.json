@@ -19,9 +19,15 @@
     ],
     "file": null,
     "text": "com o tamanho de 13 anos",
-    "reply": false,
-    "classification": "pending",
-    "verification": "index_only"
+    "reply": true,
+    "classification": "reply",
+    "verification": "archive_html_verified",
+    "replyTo": {
+      "handle": "@vini_vecchi",
+      "name": "vini vecchi ✯",
+      "id": "1473929712120610819",
+      "text": "não acredito que faço 17 anos ano que vem"
+    }
   },
   {
     "id": "1785393405582856500",
@@ -33,7 +39,9 @@
     "text": "Mente vazia oficina do gastar, até chegar junho, eu tá estourei todos os cartões 👍🏾",
     "reply": false,
     "classification": "pending",
-    "verification": "index_only"
+    "verification": "index_only",
+    "mediaNote": "Imagem anexada na captura.",
+    "mediaLink": "https://archive.ph/o/wzclA/https://m.x.com/aanaelisast/status/1785393405582856500/photo/1?launch_app_store=true&ct=engagement_view_media"
   },
   {
     "id": "1815777297447727190",
@@ -106,7 +114,7 @@
       "https://archive.ph/5oOFd"
     ],
     "file": null,
-    "text": "",
+    "text": "Tomara q o bolsonaro vá",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -144,7 +152,7 @@
       "https://archive.ph/mja3e"
     ],
     "file": null,
-    "text": "",
+    "text": "*NOTA DA EQUIPE JURÍDICA*\n\nNa manhã de 5 de setembro de 2026, Ana Elisa recebeu por e-mail ameaças racistas de morte e de estupro. O autor se apresenta como integrante de um grupo supremacista branco, menciona dados pessoais da candidata para demonstrar que sabe como localizá-la e ameaça também sua família.\n\nIsso não é debate político, é crime. O conteúdo apresenta indícios de ameaça, racismo e violência política contra a mulher, prevista na legislação eleitoral quando a agressão busca impedir ou restringir",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -174,7 +182,18 @@
     "text": "Eu acho que a primeira coisa que o Lula podia fazer a partir de agora, é tirar a isenção de impostos das igrejas evangélicas",
     "reply": false,
     "classification": "quote_post",
-    "verification": "local_html_saved_identity_url_present"
+    "verification": "local_html_saved_identity_url_present",
+    "quotedPost": {
+      "handle": "@NP__Oficial",
+      "name": "Notícias Paralelas",
+      "id": "2055774421030211824",
+      "text": "🚨 GRAVE l Pastor Cláudio Duarte, que já apareceu em vídeo comendo carne com ouro em restaurante, compara programas sociais como Bolsa família com “lata de lavagem” e eleitores de Lula com “porcos”."
+    },
+    "media": {
+      "src": "captura-2055786790070460596-3cMji_files/f1fde8311035ddc133544a657426654599b034d1.webp",
+      "alt": "Miniatura do vídeo incorporado na publicação citada; o vídeo não está disponível localmente."
+    },
+    "mediaNote": "A captura local preserva a miniatura do vídeo incorporado na publicação citada; o vídeo não está disponível localmente."
   },
   {
     "id": "1692236017644781683",
@@ -234,10 +253,18 @@
       "https://archive.ph/vuqjW"
     ],
     "file": null,
-    "text": "",
+    "text": "EU TE AMO",
     "reply": false,
-    "classification": "pending",
-    "verification": "index_only"
+    "classification": "quote_post",
+    "verification": "archive_html_verified",
+    "quotedPost": {
+      "handle": "@Marcoslulaofici",
+      "name": "Marcos Victor ⭐️🚩",
+      "id": "1952479377377444044",
+      "text": "Simplesmente, o melhor que temos! Xandão acaba de decretar a prisão de Bolsonaro!",
+      "capture": "https://archive.ph/o/vuqjW/https://m.x.com/Marcoslulaofici/status/1952479377377444044?launch_app_store=true&ct=engagement_view_post",
+      "media": "https://archive.ph/o/vuqjW/https://m.x.com/Marcoslulaofici/status/1952479377377444044/photo/1?launch_app_store=true&ct=engagement_view_media"
+    }
   },
   {
     "id": "1848899145278353740",
@@ -261,10 +288,14 @@
       "https://archive.ph/eZtAZ"
     ],
     "file": null,
-    "text": "",
+    "text": "Realmente quando não tá falando tá beijando menores de 14 anos",
     "reply": true,
-    "classification": "pending",
-    "verification": "index_only"
+    "classification": "reply",
+    "verification": "archive_html_verified",
+    "replyTo": {
+      "handle": "@yduartt00",
+      "capture": "https://archive.ph/Wcbc5"
+    }
   },
   {
     "id": "1892015766683238434",
@@ -273,7 +304,7 @@
       "https://archive.ph/FcRXD"
     ],
     "file": null,
-    "text": "",
+    "text": "EU TE AMO",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -286,7 +317,7 @@
       "https://archive.ph/WO1xd"
     ],
     "file": null,
-    "text": "",
+    "text": "Afinal, quem queria fechar as igrejas? O Lula?\n\nOs bolsonaristas estão tentando retirar o título de padroeira do Brasil da NOSSA SENHORA APARECIDA.\n\nESTE É O NÍVEL!",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -322,7 +353,7 @@
       "https://archive.ph/mitXw"
     ],
     "file": null,
-    "text": "",
+    "text": "parabéns a vocês que votaram no Ciro e na Simone, acabaram de contribuir pra mais 4 anos de tortura e ditadura 🙏🏾🥰😘",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -448,8 +479,9 @@
     "file": "captura-1884438500767900108-2I3oR.html",
     "text": "Hoje, finalmente assisti “Ainda estou aqui”, e só tenho uma coisa a dizer, quem ainda apoia a direita, merece putrificar nesse tal inferno, que os “crentes” tanto acreditam!",
     "reply": false,
-    "classification": "pending",
-    "verification": "local_html_saved_identity_url_present"
+    "classification": "post",
+    "verification": "local_html_saved_identity_url_present",
+    "mediaNote": "A captura local não mostra mídia anexada por Ana Elisa. As imagens visíveis pertencem a publicações de terceiros exibidas na captura."
   },
   {
     "id": "1801730352227991975",
@@ -473,8 +505,9 @@
     "file": "captura-1782954267449454910-mo8Op.html",
     "text": "tem uns católicos que são tão fanáticos, que como eles sabem que outras religiões cultuam São Jorge, eles nem são devotos, não postam, não fazem novena, tem gente que quer se apropriar até de santo, MISERICÓRDIA",
     "reply": false,
-    "classification": "pending",
-    "verification": "local_html_saved_identity_url_present"
+    "classification": "post",
+    "verification": "local_html_saved_identity_url_present",
+    "mediaNote": "A captura local não mostra mídia anexada por Ana Elisa."
   },
   {
     "id": "1772667959921594433",
@@ -499,7 +532,7 @@
       "https://archive.ph/MOwa3"
     ],
     "file": null,
-    "text": "",
+    "text": "que mane racismo estrutural oque, vc tá é com dor no cu de não ver preto favelado te servindo, racismo estrutural omaova, isso aí chama RACISMOOOOO da sua parte e ponto, tem nada haver com estrutural JKKKKKKKKKKKKKKKKK, olha branco me dá um ódio",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -561,7 +594,7 @@
       "https://archive.ph/oFKUz"
     ],
     "file": null,
-    "text": "",
+    "text": "Você AFIRMOU, sustente! ❤️⭐️",
     "reply": true,
     "classification": "pending",
     "verification": "index_only"
@@ -658,7 +691,7 @@
       "https://archive.ph/2Drbx"
     ],
     "file": null,
-    "text": "",
+    "text": "Não é momento de a esquerda estar defendendo Alexandre de Moraes. Parem de perder o timing da narrativa.\n\nQuem indicou Alexandre de Moraes ao STF foi Michel Temer, após o golpe que retirou a presidenta Dilma Rousseff do cargo.\n\nEste não é o momento de passar pano para os erros e as atrocidades que acontecem no STF, mas também não é hora de desfortalecer as bases da instituição.\n\nFortalecer a base do STF não significa estar em conluio com tudo o que os membros do STF fazem de errado. São coisas diferentes.",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -694,7 +727,7 @@
       "https://archive.ph/rUQ8c"
     ],
     "file": null,
-    "text": "",
+    "text": "se o lula perder, tomara que não venha o hexa tmb, bom que vcs aprende 🙌🏾",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -706,7 +739,7 @@
       "https://archive.ph/3bHVU"
     ],
     "file": null,
-    "text": "",
+    "text": "pensando aqui que faltam 12 dias pro sigilo de 100 anos ser derrubado ihuuu",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -730,7 +763,7 @@
       "https://archive.ph/hdhp0"
     ],
     "file": null,
-    "text": "",
+    "text": "SE ODIO FOSSE MATO NAO IA TER NEM LUGAR PRA EU MORAR",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -755,10 +788,12 @@
       "https://archive.ph/cadDg"
     ],
     "file": null,
-    "text": "",
+    "text": "Puta que pariu se u fosse a #eliza pegava a merda desse dinheiro e sumia no mundo que nojo dessa #Gilda #TotalmenteDemais",
     "reply": false,
-    "classification": "pending",
-    "verification": "index_only"
+    "classification": "post_with_media",
+    "verification": "archive_text_verified_media_unavailable",
+    "mediaNote": "Foto anexada indicada na captura do Archive.ph; a imagem não foi preservada nos arquivos locais. Use “Ver imagem na captura”.",
+    "mediaLink": "https://archive.ph/o/cadDg/https://m.x.com/aanaelisast/status/1286451013097070592/photo/1?launch_app_store=true&ct=engagement_view_media"
   },
   {
     "id": "1700213681022234790",
@@ -767,7 +802,7 @@
       "https://archive.ph/Jgqoc"
     ],
     "file": null,
-    "text": "",
+    "text": "me julguem, mas agora eu estou totalmente shippando poze e isabelly",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -876,7 +911,7 @@
       "https://archive.ph/QQmCa"
     ],
     "file": null,
-    "text": "",
+    "text": "Mulher defendendo estupro não é erro não amiga, tem q ter um pinto",
     "reply": true,
     "classification": "pending",
     "verification": "index_only"
@@ -888,7 +923,7 @@
       "https://archive.ph/LC3yH"
     ],
     "file": null,
-    "text": "",
+    "text": "não é o catolicismo que é intolerante amg, são os membros do catolicismo, a religião não tem nada do que eles dizem, só pregam errado🫠",
     "reply": true,
     "classification": "pending",
     "verification": "index_only"
@@ -900,7 +935,7 @@
       "https://archive.ph/fJK5b"
     ],
     "file": null,
-    "text": "",
+    "text": "Amg, não diga que você tem 20 anos, pq pessoa de 10 concordar com o ney sim, maior de idade é tenso",
     "reply": true,
     "classification": "pending",
     "verification": "index_only"
@@ -914,8 +949,9 @@
     "file": "captura-1617197167973912577-6dkbj.html",
     "text": "se tiver alguma nota pra assinar a favor da exoneração desse padre, eu assino viu, pode mandar 🤝🏾",
     "reply": false,
-    "classification": "pending",
-    "verification": "local_html_saved_identity_url_present"
+    "classification": "post",
+    "verification": "local_html_saved_identity_url_present",
+    "mediaNote": "A captura local não mostra mídia anexada por Ana Elisa."
   },
   {
     "id": "1586695330875285505",
@@ -924,7 +960,7 @@
       "https://archive.ph/GzZLX"
     ],
     "file": null,
-    "text": "",
+    "text": "se o lula não ganhar hoje eu e meus amigos vamo ter que organizar um suicídio coletivo",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -937,7 +973,7 @@
       "https://archive.ph/HbrUF"
     ],
     "file": null,
-    "text": "",
+    "text": "pois eu já não vejo a hora do Xandão bloquear, Instagram, Facebook, e WhatsApp, por favor, TORNE REAL!",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -949,7 +985,7 @@
       "https://archive.ph/lhyF6"
     ],
     "file": null,
-    "text": "",
+    "text": "Iara, apaga esses twetes, juro, da tempo",
     "reply": true,
     "classification": "pending",
     "verification": "index_only"
@@ -987,8 +1023,9 @@
     "file": "captura-1705349734158807215-o6igb.html",
     "text": "descansem religiosos, ngm vai obrigar vocês a abortar, deixa a legalização em paz , vão rezar👍🏾",
     "reply": false,
-    "classification": "pending",
-    "verification": "local_html_saved_identity_url_present"
+    "classification": "post",
+    "verification": "local_html_saved_identity_url_present",
+    "mediaNote": "A captura local não mostra mídia anexada por Ana Elisa."
   },
   {
     "id": "1612166939865931776",
@@ -1021,7 +1058,7 @@
       "https://archive.ph/k5Tt8"
     ],
     "file": null,
-    "text": "",
+    "text": "hoje após anos irei comer uma bela picanha, obrigada Lula KKKKKKKKKKKK e obrigada namorado",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1033,7 +1070,7 @@
       "https://archive.ph/8zXlO"
     ],
     "file": null,
-    "text": "",
+    "text": "o Lula definitivamente não é a melhor figura política DO MUNDO, até pq, ninguém consegue ser, vivemos em um SISTEMA!!! Mas se, a própria esquerda, ficar alimentando este discurso e ignorando que a direita é burra e vai utilizar disso, Flávio Bolsonaro é eleito este ano.",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1045,7 +1082,7 @@
       "https://archive.ph/ZNsoh"
     ],
     "file": null,
-    "text": "",
+    "text": "qm não sente dor vendo os posts do cocielo, certamente é branco.",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1069,7 +1106,7 @@
       "https://archive.ph/SdRIa"
     ],
     "file": null,
-    "text": "",
+    "text": "caralho se você quer comer a merda da carne hoje come, que ódio, deixa em paz quem não come, come você quieto na sua casa, canseira, ngm acha que vai virar santo só por que não vai comer carne hoje, é só rito da pessoal que as pessoas fazem, vcs são chatos pra um caralho",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1081,7 +1118,7 @@
       "https://archive.ph/KvNeq"
     ],
     "file": null,
-    "text": "",
+    "text": "‘eu não acredito nas pesquisas’ LINDA VOCÊ É TÃO BURRA QUANTO SEU CANDIDATO, puta que me pariuuu",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1093,7 +1130,7 @@
       "https://archive.ph/qPHOS"
     ],
     "file": null,
-    "text": "",
+    "text": "tô chocada que crente pode fazer arminha😧",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1105,7 +1142,7 @@
       "https://archive.ph/oaG7S"
     ],
     "file": null,
-    "text": "",
+    "text": "Povo da minha sala fazendo a crente perder o bv na frente de todo mundo, juro q me senti no 5º ano KKKKKKKKKKKK",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1117,7 +1154,7 @@
       "https://archive.ph/L1qAc"
     ],
     "file": null,
-    "text": "",
+    "text": "ser a favor da legalização do aborto:🤢🤮🤮🤮🤮\nAbandonar depois que a criança nasce:🥰🙏🏾😍😍😍😍😍",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1129,7 +1166,7 @@
       "https://archive.ph/wnvpN"
     ],
     "file": null,
-    "text": "",
+    "text": "Eu preferia quando a gente reclamava que o Lula não sabia se comunicar",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1153,7 +1190,7 @@
       "https://archive.ph/8G1ec"
     ],
     "file": null,
-    "text": "",
+    "text": "Toda vez que você se deparar com alguém dizendo: ‘Não adianta acabar com as bets; os sites clandestinos continuarão do mesmo jeito’, pergunte:\n\nIsso também vale para a legalização do aborto?",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1167,7 +1204,7 @@
       "https://archive.ph/i34E7"
     ],
     "file": null,
-    "text": "",
+    "text": "queria tanto jogar na blaze, pq ngm tá postando hoje? 😭😭",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1179,7 +1216,7 @@
       "https://archive.ph/J77iD"
     ],
     "file": null,
-    "text": "",
+    "text": "Nossa, que ótimo!",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1191,7 +1228,7 @@
       "https://archive.ph/VT7uC"
     ],
     "file": null,
-    "text": "",
+    "text": "acabaram de me oferecer aborto com cabide",
     "reply": true,
     "classification": "pending",
     "verification": "index_only"
@@ -1203,7 +1240,7 @@
       "https://archive.ph/biQwR"
     ],
     "file": null,
-    "text": "",
+    "text": "se tem uma coisa que fazer pobre trancar o uc é o oficial de justiça bater na porta aakkkkkkkkkk",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1215,7 +1252,7 @@
       "https://archive.ph/xObT8"
     ],
     "file": null,
-    "text": "",
+    "text": "eu só quero saber quando o Vaticano vai PROIBIR padre de ter rede social? Não casar é o de menos, eles precisam começar a focar no que realmente importa, tipo os fiéis.",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1229,7 +1266,7 @@
       "https://archive.ph/sASQF"
     ],
     "file": null,
-    "text": "",
+    "text": "lula para de fazer coisas boas para o Brasil, cadê o kit gay e o fechamento das igrejas? 😭",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1241,7 +1278,7 @@
       "https://archive.ph/k9LYb"
     ],
     "file": null,
-    "text": "",
+    "text": "Todo mundo vira crente quando se FODE né faz faz faz pitimba os crente acolhe kkkkkkkk a maior virtude é perdoar mesmo Arthur Aguiar",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1253,7 +1290,7 @@
       "https://archive.ph/oCfxI"
     ],
     "file": null,
-    "text": "",
+    "text": "enquanto o Lula arregar pra nikollas Ferreira, tem que encher o cu de folha mesmo, desisto, esquerda só se afunda!",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1279,7 +1316,7 @@
       "https://archive.ph/9BxY7"
     ],
     "file": null,
-    "text": "",
+    "text": "Não desejo mal a ninguém, muito menos pro corona vírus, que ele sobreviva ao Bolsonaro",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1291,7 +1328,7 @@
       "https://archive.ph/wcbLG"
     ],
     "file": null,
-    "text": "",
+    "text": "autorizar a legalização do aborto, para que cada vez menos o mundo tenha que conviver com pessoas como o tal",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"
@@ -1303,7 +1340,7 @@
       "https://archive.ph/N7rHi"
     ],
     "file": null,
-    "text": "",
+    "text": "7 até por que não fechou as igrejas como o prometido",
     "reply": false,
     "classification": "pending",
     "verification": "index_only"

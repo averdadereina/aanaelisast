@@ -1,6 +1,6 @@
 post_id,original_url,archive_urls,classification,verification,index_hint
 1782951454405234941,https://x.com/aanaelisast/status/1782951454405234941,https://archive.ph/JwllT,pending,index_only,not_classified
-1474150471514341387,https://x.com/aanaelisast/status/1474150471514341387,https://archive.ph/kbJ0T,pending,index_only,not_classified
+1474150471514341387,https://x.com/aanaelisast/status/1474150471514341387,https://archive.ph/kbJ0T,reply,archive_html_verified,verified_reply_to_@vini_vecchi
 1785393405582856500,https://x.com/aanaelisast/status/1785393405582856500,https://archive.ph/wzclA,pending,index_only,not_classified
 1815777297447727190,https://x.com/aanaelisast/status/1815777297447727190,https://archive.ph/JQPTl,pending,index_only,not_classified
 1882960653805289713,https://x.com/aanaelisast/status/1882960653805289713,https://archive.ph/59rHg|https://archive.ph/vIx4I,pending,index_only,not_classified
@@ -12,14 +12,14 @@ post_id,original_url,archive_urls,classification,verification,index_hint
 1610774887089553408,https://x.com/aanaelisast/status/1610774887089553408,https://archive.ph/5RpIC|https://archive.ph/EmUMt|https://archive.ph/UHeW1,pending,index_only,not_classified
 2096616950684107234,https://x.com/aanaelisast/status/2096616950684107234,https://archive.ph/mja3e,pending,index_only,not_classified
 2092961003306639702,https://x.com/aanaelisast/status/2092961003306639702,https://archive.ph/6kLln|https://archive.ph/NRVK6,pending,index_only,not_classified
-2055786790070460596,https://x.com/aanaelisast/status/2055786790070460596,https://archive.ph/3cMji|https://archive.ph/G1ybN|https://archive.ph/dxKs5,quote_post,local_html_saved_identity_url_present,not_classified
+2055786790070460596,https://x.com/aanaelisast/status/2055786790070460596,https://archive.ph/3cMji|https://archive.ph/G1ybN|https://archive.ph/dxKs5,quote_post,local_html_saved_identity_url_present,verified_quote_post
 1692236017644781683,https://x.com/aanaelisast/status/1692236017644781683,https://archive.ph/2Hlpp|https://archive.ph/Nkl6r|https://archive.ph/xWHrA,pending,index_only,not_classified
 1586837545387712517,https://x.com/aanaelisast/status/1586837545387712517,https://archive.ph/3MOwL|https://archive.ph/Qt6BC,pending,index_only,reply_candidate
 2084700646788264085,https://x.com/aanaelisast/status/2084700646788264085,https://archive.ph/UASal,pending,index_only,not_classified
 1773396291793326334,https://x.com/aanaelisast/status/1773396291793326334,https://archive.ph/Tjoja,pending,index_only,not_classified
-1952487159929393533,https://x.com/aanaelisast/status/1952487159929393533,https://archive.ph/vuqjW,pending,index_only,not_classified
+1952487159929393533,https://x.com/aanaelisast/status/1952487159929393533,https://archive.ph/vuqjW,quote_post,archive_html_verified,verified_quote_post
 1848899145278353740,https://x.com/aanaelisast/status/1848899145278353740,https://archive.ph/9Aw5n,pending,index_only,not_classified
-1619023538224242688,https://x.com/aanaelisast/status/1619023538224242688,https://archive.ph/Wcbc5|https://archive.ph/a1dzI|https://archive.ph/a7VUf|https://archive.ph/eZtAZ,pending,index_only,reply_candidate
+1619023538224242688,https://x.com/aanaelisast/status/1619023538224242688,https://archive.ph/Wcbc5|https://archive.ph/a1dzI|https://archive.ph/a7VUf|https://archive.ph/eZtAZ,reply,archive_html_verified,verified_reply_to_@yduartt00
 1892015766683238434,https://x.com/aanaelisast/status/1892015766683238434,https://archive.ph/FcRXD,pending,index_only,not_classified
 2103303691679768811,https://x.com/aanaelisast/status/2103303691679768811,https://archive.ph/OTx8e|https://archive.ph/WO1xd,pending,index_only,not_classified
 1472713381467635716,https://x.com/aanaelisast/status/1472713381467635716,https://archive.ph/wRzR5,pending,index_only,not_classified
@@ -34,9 +34,9 @@ post_id,original_url,archive_urls,classification,verification,index_hint
 1870451757723353327,https://x.com/aanaelisast/status/1870451757723353327,https://archive.ph/IacHu,pending,index_only,not_classified
 1612162453013684226,https://x.com/aanaelisast/status/1612162453013684226,https://archive.ph/Nq2G9,pending,index_only,not_classified
 1573308606967152645,https://x.com/aanaelisast/status/1573308606967152645,https://archive.ph/qEJIC,pending,index_only,not_classified
-1884438500767900108,https://x.com/aanaelisast/status/1884438500767900108,https://archive.ph/2I3oR|https://archive.ph/3iJ4t|https://archive.ph/nfrxq|https://archive.ph/pgvM5,pending,local_html_saved_identity_url_present,not_classified
+1884438500767900108,https://x.com/aanaelisast/status/1884438500767900108,https://archive.ph/2I3oR|https://archive.ph/3iJ4t|https://archive.ph/nfrxq|https://archive.ph/pgvM5,post,local_html_saved_identity_url_present,not_classified
 1801730352227991975,https://x.com/aanaelisast/status/1801730352227991975,https://archive.ph/UEnmI|https://archive.ph/uKqTX,pending,index_only,not_classified
-1782954267449454910,https://x.com/aanaelisast/status/1782954267449454910,https://archive.ph/mo8Op,pending,local_html_saved_identity_url_present,not_classified
+1782954267449454910,https://x.com/aanaelisast/status/1782954267449454910,https://archive.ph/mo8Op,post,local_html_saved_identity_url_present,not_classified
 1772667959921594433,https://x.com/aanaelisast/status/1772667959921594433,https://archive.ph/M9Jx2|https://archive.ph/Xe8hZ|https://archive.ph/diQo8|https://archive.ph/eCQiL,pending,index_only,not_classified
 1770273255900754257,https://x.com/aanaelisast/status/1770273255900754257,https://archive.ph/6uYSh|https://archive.ph/MOwa3,pending,index_only,not_classified
 1612174897475891201,https://x.com/aanaelisast/status/1612174897475891201,https://archive.ph/KJb9F,pending,index_only,not_classified
@@ -59,7 +59,7 @@ post_id,original_url,archive_urls,classification,verification,index_hint
 2055802389605544055,https://x.com/aanaelisast/status/2055802389605544055,https://archive.ph/JYARr,pending,index_only,not_classified
 1271912766790602752,https://x.com/aanaelisast/status/1271912766790602752,https://archive.ph/hdhp0,pending,index_only,not_classified
 1625193777286586368,https://x.com/aanaelisast/status/1625193777286586368,https://archive.ph/Wl3b8|https://archive.ph/bK7Me,pending,index_only,reply_candidate
-1286451013097070592,https://x.com/aanaelisast/status/1286451013097070592,https://archive.ph/cadDg,pending,index_only,not_classified
+1286451013097070592,https://x.com/aanaelisast/status/1286451013097070592,https://archive.ph/cadDg,post_with_media,archive_text_verified_media_unavailable,not_classified; text_verified_in_archive
 1700213681022234790,https://x.com/aanaelisast/status/1700213681022234790,https://archive.ph/Jgqoc,pending,index_only,not_classified
 1572247752146563074,https://x.com/aanaelisast/status/1572247752146563074,https://archive.ph/LdgBX,pending,index_only,not_classified
 2108317102495195367,https://x.com/aanaelisast/status/2108317102495195367,https://archive.ph/kHwsD,pending,index_only,reply_candidate
@@ -72,13 +72,13 @@ post_id,original_url,archive_urls,classification,verification,index_hint
 1761176017949827098,https://x.com/aanaelisast/status/1761176017949827098,https://archive.ph/QQmCa,pending,index_only,reply_candidate
 1751012905166725562,https://x.com/aanaelisast/status/1751012905166725562,https://archive.ph/LC3yH,pending,index_only,reply_candidate
 1799502993550610926,https://x.com/aanaelisast/status/1799502993550610926,https://archive.ph/fJK5b,pending,index_only,reply_candidate
-1617197167973912577,https://x.com/aanaelisast/status/1617197167973912577,https://archive.ph/6dkbj,pending,local_html_saved_identity_url_present,not_classified
+1617197167973912577,https://x.com/aanaelisast/status/1617197167973912577,https://archive.ph/6dkbj,post,local_html_saved_identity_url_present,not_classified
 1586695330875285505,https://x.com/aanaelisast/status/1586695330875285505,https://archive.ph/GzZLX,pending,index_only,not_classified
 1877759635211354520,https://x.com/aanaelisast/status/1877759635211354520,https://archive.ph/42SsH|https://archive.ph/HbrUF,pending,index_only,not_classified
 1674856517915353089,https://x.com/aanaelisast/status/1674856517915353089,https://archive.ph/lhyF6,pending,index_only,reply_candidate
 1792707180720005230,https://x.com/aanaelisast/status/1792707180720005230,https://archive.ph/Lx6Hg,pending,index_only,not_classified
 1615423700907528194,https://x.com/aanaelisast/status/1615423700907528194,https://archive.ph/F5BvD,pending,index_only,not_classified
-1705349734158807215,https://x.com/aanaelisast/status/1705349734158807215,https://archive.ph/o6igb,pending,local_html_saved_identity_url_present,not_classified
+1705349734158807215,https://x.com/aanaelisast/status/1705349734158807215,https://archive.ph/o6igb,post,local_html_saved_identity_url_present,not_classified
 1612166939865931776,https://x.com/aanaelisast/status/1612166939865931776,https://archive.ph/gCwm0,pending,index_only,not_classified
 1902921608588644840,https://x.com/aanaelisast/status/1902921608588644840,https://archive.ph/odSwd,pending,index_only,reply_candidate
 1777010184449126432,https://x.com/aanaelisast/status/1777010184449126432,https://archive.ph/k5Tt8,pending,index_only,not_classified
