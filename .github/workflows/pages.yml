@@ -28,6 +28,7 @@ jobs:
           cp index.html original.html LEIA-ME-PUBLICO.txt indice-consolidado.csv posts-data.json MANIFESTO-SHA256.json .nojekyll _site/
           cp captura-*.html _site/
           cp -R captura-*_files _site/
+          cp -R Publicações _site/
       - name: Enviar site estático
         uses: actions/upload-pages-artifact@v4
         with:
