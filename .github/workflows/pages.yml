@@ -16,32 +16,28 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Baixar repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Configurar GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
+      - name: Preparar arquivos estáticos
+        run: |
+          mkdir -p _site
+          cp index.html original.html LEIA-ME-PUBLICO.txt indice-consolidado.csv posts-data.json MANIFESTO-SHA256.json .nojekyll _site/
+          cp captura-*.html _site/
+          cp -R captura-*_files _site/
       - name: Enviar site estático
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: |
-            index.html
-            original.html
-            LEIA-ME-PUBLICO.txt
-            indice-consolidado.csv
-            posts-data.json
-            MANIFESTO-SHA256.json
-            captura-*.html
-            captura-*_files/
-            .nojekyll
-          include-hidden-files: true
+          path: _site
 
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: build
     steps:
       - name: Publicar no GitHub Pages
