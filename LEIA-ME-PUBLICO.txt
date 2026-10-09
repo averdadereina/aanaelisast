@@ -1,0 +1,40 @@
+CAPTURAS PUBLICAS DE POSTS DO X - AANAELISAST
+Coleta parcial: 8 de outubro de 2026, horario de Brasilia.
+
+O QUE ESTE PACOTE CONTEM
+- Indice de 106 IDs de posts com 143 links de capturas existentes no Archive.ph.
+- Cinco paginas HTML salvas pelo recurso "Pagina da web, completa" do Chrome,
+  acompanhadas dos recursos que o navegador conseguiu salvar.
+- Manifesto SHA-256 dos arquivos publicados.
+
+ORIGEM E LIMITES
+Este e um deposito manual de copias de capturas de terceiros. Nao e uma
+captura direta do X feita pela Wayback Machine. Hospedagem no Internet Archive
+nao significa certificacao de autoria, autenticidade, completude ou valor juridico.
+Os hashes permitem comparar bytes com este manifesto; nao comprovam por si
+autoria nem fornecem carimbo de tempo independente.
+
+A fonte do indice e https://archive.ph/https://x.com/aanaelisast/*.
+As paginas foram consultadas em momentos diferentes, enquanto novas capturas
+eram acrescentadas. Nao se afirma cobertura integral do indice nem do perfil.
+Duplicatas de URL foram agrupadas pelo ID do post.
+
+A classificacao de respostas, reposts e posts originais ainda nao foi concluida.
+reply_candidate indica apenas que o titulo no indice comeca com mencao;
+nao e uma classificacao confirmada. error_capture identifica uma captura de
+erro, que nao preserva o conteudo de um post. Somente as cinco paginas locais
+foram salvas; os demais registros sao referencias, nao copias offline.
+Videos e outras midias podem faltar. A completude dos recursos nao foi comprovada.
+Nenhuma conclusao sobre ofensa, ilegalidade ou intencao e estabelecida aqui.
+
+CAPTURAS SALVAS LOCALMENTE
+https://x.com/aanaelisast/status/2055786790070460596 -> https://archive.ph/3cMji
+https://x.com/aanaelisast/status/1884438500767900108 -> https://archive.ph/2I3oR
+https://x.com/aanaelisast/status/1782954267449454910 -> https://archive.ph/mo8Op
+https://x.com/aanaelisast/status/1705349734158807215 -> https://archive.ph/o6igb
+https://x.com/aanaelisast/status/1617197167973912577 -> https://archive.ph/6dkbj
+
+COMO CONSULTAR
+Abra index.html para navegar pelos links originais, capturas externas e copias locais.
+indice-consolidado.csv contem a lista estruturada. MANIFESTO-SHA256.json lista
+os arquivos do pacote e seus hashes. Preserve os arquivos originais sem edicao.
